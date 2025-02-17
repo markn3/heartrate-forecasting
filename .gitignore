@@ -17,8 +17,13 @@ data/
 *.json
 *.jsonl
 *.xlsx
-
+/lightning_logs/
 lightning_logs/
+*.csv
+*.tsv
+*.json
+*.jsonl
+*.xlsx
 
 # Ignore model weights & large binaries
 models/
